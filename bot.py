@@ -2,7 +2,7 @@ import os
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, ContextTypes, filters
 
-BOT TOKEN = "8334244759:AAHGhLAyLYR5mEGVuy7T5Y7POttML3NvM3A"
+BOT_TOKEN = "8334244759:AAHGhLAyLYR5mEGVuy7T5Y7POttML3NvM3A"
 
 # Thumbnail store
 user_thumb = {}
